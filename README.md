@@ -1,4 +1,4 @@
-# Market Segmentation in Insurance
+# Joins in Power BI
 
 ### Objective  :
 Let's understand JOINS :)
